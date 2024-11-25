@@ -11,10 +11,16 @@ composer install sokeio/framework
 php artisan migrate 
 ```
 
-### sử dụng
-![image](https://github.com/user-attachments/assets/1721cd13-953e-4f07-9bd9-f20a3abe6a69)
+### Sử dụng
+![image](https://github.com/user-attachments/assets/4343ff67-29d4-4a32-949c-43f073d89333)
 
-Khi chạy lần đầu tiên chưa có tài khoản thì chọn đăng ký để tạo tài khoản mới(Lưu ý: Tài khoản tạo đầu tiên sẽ là supper-admin)
+
+Khi chạy lần đầu tiên chưa có tài khoản thì chọn đăng ký để tạo tài khoản mới
+
+(Lưu ý: Tài khoản tạo đầu tiên sẽ là supper-admin)
+Đăng nhập thành công thì sẽ vào trang quản lý:
+![image](https://github.com/user-attachments/assets/8eb061f9-81df-40a6-b9dd-1b1514147852)
+
 
 
 ### Cấu trúc folder:
